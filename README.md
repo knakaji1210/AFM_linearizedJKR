@@ -1,3 +1,3 @@
-# AFM_NanoMech
+# AFM_linearlizedJKR
 
-220904 開発開始　KOのオリジナルをベースに解読から始める
+VAMAS RRTのために藤波君が作成したプログラム
